@@ -13,6 +13,15 @@
 <!-- partial:index.partial.html -->
 <div class="wrapper">
   <input type="checkbox" name="nav-check" id="nav-check" />
+  <nav role="navigation">
+    <label for="nav-check"></label>
+    <ul class="navigation">
+      <li><a href="#sec-home">home</a></li>
+      <li><a href="#sec-about">about</a></li>
+      <li><a href="#sec-portfolio">portfolio</a></li>
+      <li><a href="#sec-contact">contact</a></li>
+    </ul>
+  </nav>
   <section class="sec-about" id="sec-about">
     <div class="content">
       <h1>who am i?</h1>
@@ -50,15 +59,7 @@
       <h2><a href="#sec-contact">where</a> to find me?</h2>
     </div>
   </section>
-  <nav role="navigation">
-    <label for="nav-check"></label>
-    <ul class="navigation">
-      <li><a href="#sec-home">home</a></li>
-      <li><a href="#sec-about">about</a></li>
-      <li><a href="#sec-portfolio">portfolio</a></li>
-      <li><a href="#sec-contact">contact</a></li>
-    </ul>
-  </nav>
+  
 </div>
 <!-- partial -->
   <script  src="{{ "/assets/js/script.js" | relative_url }}"></script>
