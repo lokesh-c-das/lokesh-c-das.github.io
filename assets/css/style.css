@@ -56,7 +56,7 @@ body {
 
 /*Navigation*/
 nav {
-  /*float: left;*/
+  float: left;
   width: 5%;
   /*9.375em;/*150px*/
   min-height: 100%;
