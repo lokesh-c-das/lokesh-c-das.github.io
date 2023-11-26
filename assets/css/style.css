@@ -235,7 +235,7 @@ figure {
   background: #fff no-repeat center center;
   width: 100%;
   float: left;
-  margin-bottom: 10em;
+  margin-bottom: 2em;
   clear: both; }
   #colorlib-hero .flexslider {
     border: none;
@@ -381,8 +381,8 @@ body.offcanvas {
 .colorlib-services,
 .colorlib-research,
 .colorlib-contact {
-  padding-top: 4em;
-  padding-bottom: 4em;
+  padding-top: 2em;
+  padding-bottom: 2em;
   clear: both;
   width: 100%;
   display: block; }
