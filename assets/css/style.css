@@ -86,7 +86,7 @@ figure {
   transition: 0.5s; }
   @media screen and (max-width: 768px) {
     #colorlib-aside {
-      width: 300px;
+      width: 200px;
       -moz-transform: translateX(-300px);
       -webkit-transform: translateX(-300px);
       -ms-transform: translateX(-300px);
@@ -220,7 +220,7 @@ figure {
   margin: 0 auto; }
 
 #colorlib-main {
-  width: calc(100% - 300px);
+  width: calc(100% - 200px);
   float: right;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
