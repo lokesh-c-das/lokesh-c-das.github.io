@@ -20,7 +20,6 @@ section h2 {
 #home img, #research img, #experience img, #projects img, #teaching img, #students img {
     width: 100%;
     height: auto;
-    max-width: 400px; /* Optional: Adjust max-width if needed */
     margin-bottom: 20px;
 }
 
