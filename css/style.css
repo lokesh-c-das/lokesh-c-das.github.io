@@ -43,14 +43,18 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, blockquote
 }
 
 body {
+    line-height: 25px!important;
+    font-size:18px !important;
     margin: 0;
     padding: 0;
     -webkit-font-smoothing: antialiased;
     overflow-x: hidden;
+    font-family: sans-serif;
+    font-smooth: always;
 }
 
 p {
-    line-height: 25px;
+    line-height: 30px;
 }
 
 .row img {
@@ -1702,7 +1706,15 @@ blockquote {
   content: '✓';
   padding: 0px 2px !important;
 }
+#nav-main > ul > li > a {
+    font-weight: bold;
+    font-size: 16px;
+    color: #7d3c98;
+}
 
+.pub_head{
+    font-size: 10px !important;
+}
 /*
  * Animations
  */
