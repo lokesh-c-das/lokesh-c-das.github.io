@@ -1,6 +1,6 @@
 ---
 ---
-University of Memphis
+University of Memphis (August 2019 - July 2024)
 ======
 - COMP 4/6272 - System Administration and UNIX Programming (Fall 2023) (Instructor)
 - COMP 7212 - Operating/Distributed Systems (Spring 2024) (Teaching Assistant)
