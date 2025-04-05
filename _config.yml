@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Lokesh Das"
-  pronouns         : #"He/Him" 
+  #pronouns         : "He/Him" 
   bio              : "Assistant Professor, School of Computing"
   employer         : "Wichita State University"
   location         : "Wichita, Kansas"
