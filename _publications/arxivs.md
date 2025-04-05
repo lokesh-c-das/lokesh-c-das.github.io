@@ -42,5 +42,5 @@ date: 2024-02-17
     background: linear-gradient(135deg, #66BB6A, #388E3C); /* Lighter green on hover */
     transform: scale(1.08);
 }
-</style> 
-[Arxiv 1]. <span class="">[arxiv - 2025]</span> <b>Lokesh Chandra Das</b>, and Myounggyu Won. "LCS-TF: Multi-agent deep reinforcement learning-based intelligent lane-change system for improving traffic flow." arXiv preprint arXiv:2303.09070 (2023).. [Paper](https://arxiv.org/abs/2303.09070). <br />  
+</style>
+[Arxiv 1]. <span class="">[arxiv - 2025]</span> <b>Lokesh Chandra Das</b>, and Myounggyu Won. "LCS-TF: Multi-agent deep reinforcement learning-based intelligent lane-change system for improving traffic flow." arXiv preprint arXiv:2303.09070 (2023).. [Paper](https://arxiv.org/abs/2303.09070). <br />
