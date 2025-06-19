@@ -12,7 +12,8 @@ I am an Assistant Professor in the [School of Computing](https://www.wichita.edu
 
 Latest News
 ======
-[<span style="color:#fc9d03">June 2025</span>] - Our paper was accepted at the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025).<br />
+[<span style="color:#fc9d03">June 2025</span>] - Our paper was accepted at the European Journal of Agronomy.<br />
+[<span style="color:#fc9d03">June 2025</span>] - Our paper was accepted at the International Conference on Intelligent Robots and Systems <span style="font-weight: bold;color: red;">(IROS'25)</span>.<br />
 [<span style="color:#fc9d03">March 2025</span>] - Our paper was accepted at the 21<sup>st</sup> International Wireless Communications & Mobile Computing Conference (IWCMC 2025) [Paper](https://arxiv.org/pdf/2503.09513).<br /> 
 [<span style="color:#fc9d03">January 2025</span>] - Yassine Ibork joined our research group as a Ph.D. Student. Welcome!<br /> 
 [<span style="color:#fc9d03">August 2024</span>] - I joined the School of Computing at Wichita State University as a tenure-track assistant professor.<br /> 
