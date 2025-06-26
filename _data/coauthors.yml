@@ -32,3 +32,6 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+"das":
+  - firstname: ["Lokesh","Lokesh Chandra", "Lokesh C", "Lokesh C."]
+    url: https://lokesh-c-das.github.io/
