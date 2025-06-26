@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.wichita.edu'>Wichita State University</a>. JB 217, 1845 Fairmount St., Wichita, KS 67260.
 
 profile:
   align: right
@@ -19,16 +19,19 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: False
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Assistant Professor in the [School of Computing](https://www.wichita.edu/academics/engineering/SoC/) at Wichita State University, where I direct [the AIMS (Artificial Intelligence, Mobility, and Safety) Research Lab](https://lokesh-c-das.github.io/). I earned my PhD in Computer Science from the University of Memphis, under the guidance of [Dr. Myounggyu Won](https://www.memphis.edu/cs/people/faculty_pages/myounggyu-won.php). Prior to that, I completed my MS in Computer Science at the University of Memphis in 2022 and obtained my B.Sc. in Computer Science and Engineering from the University of Dhaka in Bangladesh. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before pursuing my PhD, I worked as a software engineer at [Samsung R&D Institute Bangladesh](https://research.samsung.com/srbd) and served as a Senior Officer in the Information and Communication Technology Division at Agrani Bank PLC. My research interests encompass Intelligent Transportation Systems, Connected and Autonomous Vehicles, V2X Communication, Reinforcement Learning, Computer Vision, Speech Emotion Recognition, Cybersecurity, and the Internet of Things (IoT).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+---
+<p style="color:blue">I am looking for one or two self motivated PhD student(s) to join the The AIMS Lab. Students with a strong background in Machine Learning, Statistics and Probability, and Python coding are encourage to send their resumes to lokesh[dot]das[AT]wichita[dot]edu.</p>
+
+---
