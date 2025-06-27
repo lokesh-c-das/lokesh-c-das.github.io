@@ -15,9 +15,10 @@ nav_order: 7
 
 ---
 
-**Reviewing Activities**
+**Journal/Conference Reviewer**
 - ***Journals:***
     - IEEE Robotics and Automation Letters (RA-L): April 2022, September 22, September 23
+    - Engineering Applications of Artificial Intelligence (EAAI): 2025
 
 - ***Conferences:***
     - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS): 2024, 2025
