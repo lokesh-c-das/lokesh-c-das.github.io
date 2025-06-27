@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper was accepted at the IEEE International Conference on Robotics and Automation (**ICRA’21**)
+Our paper was accepted at the IEEE International Conference on Robotics and Automation (**ICRA’21**).

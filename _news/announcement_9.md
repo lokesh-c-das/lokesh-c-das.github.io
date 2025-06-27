@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-Our paper was accepted at the International Conference on Intelligent Transportation Systems (**ITSC’23**)
+Our paper was accepted at the International Conference on Intelligent Transportation Systems (**ITSC’23**).

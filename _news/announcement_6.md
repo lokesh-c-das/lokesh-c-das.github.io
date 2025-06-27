@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-I presented my research at the [IUCRC](https://www.ceat-iucrc.com/) research meeting in Indianapolis
+I presented my research at the [IUCRC](https://www.ceat-iucrc.com/) research meeting in Indianapolis.

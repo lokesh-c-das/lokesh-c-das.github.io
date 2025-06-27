@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-Our paper was accepted at the International Conference on Machine Learning (**ICML’21**)
+Our paper was accepted at the International Conference on Machine Learning (**ICML’21**).
