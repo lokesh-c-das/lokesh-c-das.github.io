@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /aimslab/
 title: The AIMS LAB
 description: 
 nav: true
