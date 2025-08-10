@@ -15,6 +15,7 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Yassine Ibork</p>
+      <p>PhD Student</p>
       <p>330 Wallace Hall</p>
       <p>1845 Fairmount St., Wichita, KS 67260</p>
   - align: left
@@ -22,7 +23,8 @@ profiles:
     content: about_nguyen.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>To be Decided</p>
+      <p>Nhat Ha Nguyen</p>
+      <p>PhD Student</p>
       <p>330 Wallace Hall</p>
       <p>1845 Fairmount St., Wichita, KS 67260</p>
 ---
