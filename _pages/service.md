@@ -8,7 +8,7 @@ nav_order: 7
 ---
 
 **Professional Experiences**
-- Assistant Professor, School of Computing at Wichita State University [August 2024 - Present]
+- **Assistant Professor, School of Computing at Wichita State University [August 2024 - Present]**
 - Research Assistant, The Computational Intelligence Laboratory, University of Memphis [Summer 2022, 2023]
 - Software Engineer, Samsung R&D Institute Bangladesh Ltd., Dhaka, Bangladesh [March 2017 - April 2018]
 - Software Engineer, BJIT Limited, Dhaka, Bangladesh [August 2015 - July 2016]
