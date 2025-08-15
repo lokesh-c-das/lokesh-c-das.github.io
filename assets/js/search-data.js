@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/teaching/";
           },
         },{id: "nav-the-aims-lab",
-          title: "The AIMS LAB",
+          title: "The AIMS Lab",
           description: "",
           section: "Navigation",
           handler: () => {
