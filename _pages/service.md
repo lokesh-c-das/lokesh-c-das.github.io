@@ -17,11 +17,12 @@ nav_order: 7
 
 **Journal/Conference Reviewer**
 - ***Journals:***
-    - IEEE Robotics and Automation Letters (RA-L): April 2022, September 22, September 23
-    - Engineering Applications of Artificial Intelligence (EAAI): 2025
+    - IEEE Robotics and Automation Letters (RA-L): 2022 - Present (Reviewed: 4 Papers)
+    - Engineering Applications of Artificial Intelligence (EAAI): 2025 - Present (Reviewed: 3 Papers)
+    - IEEE Transaction on Robotics: 2025 - Present
 
 - ***Conferences:***
-    - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS): 2024, 2025
+    - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS): 2024, 2025 (Reviewed: 2 Papers)
     - IEEE International Conference on Intelligent Transportation Systems (ITSC): 2024, 2025
     - IEEE Symposium Series on Computational Intelligence (SSCI): 2022
     - IEEE Congress on Evolutionary Computation (ECE): 2022
