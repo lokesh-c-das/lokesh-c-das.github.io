@@ -3,6 +3,6 @@
 **Research Interests**<br /> 
 - Reinforcement Learning
 - Deep Learning
-- Healthcare
+- Computer Vision for Autonomous Vehicles
 - Cybersecurity
-- Connected and Autonomous Vehicle
+- Connected and Autonomous Vehicles

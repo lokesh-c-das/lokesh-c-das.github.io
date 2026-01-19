@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-Yassine Ibork joined our research group as a Ph.D. Student. Welcome!
+Yassine Ibork joined The AIMS Lab as a Ph.D. Student in Spring 2025. Welcome Yassine!

@@ -14,6 +14,10 @@ nav_order: 7
 - Software Engineer, BJIT Limited, Dhaka, Bangladesh [August 2015 - July 2016]
 
 ---
+**Editor/Guest Editor/Committee Member**
+- ***Guest Editor:***
+    - Special Issue: [Sustainable and Smart Transportation Systems: Electrification, Alternative Fuels, and Green Mobility](https://www.mdpi.com/journal/sustainability/special_issues/E3B240ENDJ), Sustainbility (MDPI Journal)
+
 
 **Journal/Conference Reviewer**
 - ***Journals:***
@@ -26,3 +30,4 @@ nav_order: 7
     - IEEE International Conference on Intelligent Transportation Systems (ITSC): 2024, 2025
     - IEEE Symposium Series on Computational Intelligence (SSCI): 2022
     - IEEE Congress on Evolutionary Computation (ECE): 2022
+    - IEEE Intelligent Vehicles Symposium (IV): 2026
