@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
- I received the Graduate Student Association Travel Funding at the University of Memphis.
+I received the Graduate Student Association Travel Funding at the University of Memphis.

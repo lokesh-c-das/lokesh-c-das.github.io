@@ -24,10 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an ***Assistant Professor*** in the [School of Computing](https://www.wichita.edu/academics/engineering/SoC/) at Wichita State University, where I direct the [Artificial Intelligence, Mobility and Safety Research Lab - The AIMS Lab](https://lokesh-c-das.github.io/aimslab/). I earned my ***Ph.D. in Computer Science*** from the [University of Memphis](https://www.memphis.edu/), under the guidance of [Dr. Myounggyu Won](https://www.memphis.edu/cs/people/faculty_pages/myounggyu-won.php). Prior to that, I completed my MS in Computer Science at the University of Memphis in 2022 and obtained my B.Sc. in Computer Science and Engineering from the University of Dhaka in Bangladesh. 
+I am an **_Assistant Professor_** in the [School of Computing](https://www.wichita.edu/academics/engineering/SoC/) at Wichita State University, where I direct the [Artificial Intelligence, Mobility and Safety Research Lab - The AIMS Lab](https://lokesh-c-das.github.io/aimslab/). I earned my **_Ph.D. in Computer Science_** from the [University of Memphis](https://www.memphis.edu/), under the guidance of [Dr. Myounggyu Won](https://www.memphis.edu/cs/people/faculty_pages/myounggyu-won.php). Prior to that, I completed my MS in Computer Science at the University of Memphis in 2022 and obtained my B.Sc. in Computer Science and Engineering from the University of Dhaka in Bangladesh.
 
 Before pursuing my Ph.D., I worked as a software engineer at [Samsung R&D Institute Bangladesh](https://research.samsung.com/srbd) and served as a Senior Officer in the Information and Communication Technology Division at Agrani Bank PLC. My research interests encompass Intelligent Transportation Systems, Connected and Autonomous Vehicles, V2X Communication, Reinforcement Learning, Computer Vision, Speech Emotion Recognition, Cybersecurity, and the Internet of Things (IoT).
-
 
 <i class="fas fa-bullhorn" style="color:red!"></i> I am looking for <del>two</del> one self-motivated Ph.D. student to join the AIMS Lab. Students with a strong background in Machine Learning, Statistics and Probability, and Python coding are encouraged to send their resumes to lokesh[dot]das[AT]wichita[dot]edu.
 
