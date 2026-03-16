@@ -19,7 +19,7 @@ nav_order: 7
 **Editor/Guest Editor/Committee Member**
 
 - **_Guest Editor:_**
-  - Special Issue: [Sustainable and Smart Transportation Systems: Electrification, Alternative Fuels, and Green Mobility](https://www.mdpi.com/journal/sustainability/special_issues/E3B240ENDJ), Sustainbility (MDPI Journal)
+  - Special Issue: [Sustainable and Smart Transportation Systems: Electrification, Alternative Fuels, and Green Mobility](https://www.mdpi.com/journal/sustainability/special_issues/E3B240ENDJ), Sustainbility
 
 **Journal/Conference Reviewer**
 
