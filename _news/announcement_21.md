@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-Our proposal was accepted for funding by Kansas NSF EPSCoR. I will serve as Co-PI.
+Our proposal was accepted for funding by Kansas NSF EPSCoR. I will serve as a Co-PI.
