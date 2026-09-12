@@ -4,34 +4,34 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "About",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "Publications",
+          title: "publications",
           description: "For a complete list of publications, please visit my Google Scholar page.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
-          title: "Teaching",
+          title: "teaching",
           description: "Teaching interest includes Deep Learning, Reinforcement Learning,...",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-the-aims-lab",
-          title: "The AIMS Lab",
+        },{id: "nav-aimslab",
+          title: "aimslab",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/aimslab/";
           },
         },{id: "nav-service",
-          title: "Service",
+          title: "service",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -473,6 +473,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-proposal-was-accepted-for-funding-by-kansas-nsf-epscor-i-will-serve-as-a-co-pi",
           title: 'Our proposal was accepted for funding by Kansas NSF EPSCoR. I will serve...',
+          description: "",
+          section: "News",},{id: "news-one-paper-was-submitted-to-acm-computing-surveys",
+          title: 'One paper was submitted to ACM Computing Surveys',
+          description: "",
+          section: "News",},{id: "news-our-proposal-was-funded-by-the-regional-institute-on-aging-ria",
+          title: 'Our proposal was funded by the Regional Institute on Aging (RIA)',
           description: "",
           section: "News",},{id: "news-i-was-invited-to-be-a-guest-editor-for-the-special-issue-on-sustainable-and-smart-transportation-systems-electrification-alternative-fuels-and-green-mobility",
           title: 'I was invited to be a guest editor for the special issue on...',
