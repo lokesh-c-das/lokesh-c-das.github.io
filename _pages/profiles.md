@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /aimslab/
-title: The AIMS Lab
+title: aimslab
 description:
 nav: true
 nav_order: 7

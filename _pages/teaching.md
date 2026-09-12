@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: teaching
 description: Teaching interest includes Deep Learning, Reinforcement Learning,...
 nav: true
 nav_order: 6
@@ -9,8 +9,8 @@ nav_order: 6
 
 **Wichita State University (August 2024 - Present)**
 
-- CS 510. Programming Language Concepts (<span style="color:blue">Spring: 2026</span>), <span style="text-style: italic;">Level:</span> Undergraduate
-- CS 896. Capstone Project in Data Science (<span style="color:blue">Spring: 2026</span>), <span style="text-style: italic;">Level:</span> Graduate (MS)
+- CS 510. Programming Language Concepts (Spring: 2026, <span style="color:blue">Fall: 2026</span>), <span style="text-style: italic;">Level:</span> Undergraduate
+- CS 896. Capstone Project in Data Science (Spring: 2026, <span style="color:blue">Fall: 2026</span>), <span style="text-style: italic;">Level:</span> Graduate (MS)
 - CS989BD. Deep Learning (Fall: 2024,2025 Spring: 2025): <span style="text-style: italic;">Level:</span> Graduate (MS & Ph.D.)
 
 ---

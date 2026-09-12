@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: <a href='https://www.wichita.edu'>Wichita State University</a>. JB 217, 1845 Fairmount St., Wichita, KS 67260.
 

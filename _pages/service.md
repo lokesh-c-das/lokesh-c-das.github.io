@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /service/
-title: Service
+title: service
 description:
 nav: true
 nav_order: 7
@@ -25,13 +25,14 @@ nav_order: 7
 
 - **_Journals:_**
 
-  - IEEE Robotics and Automation Letters (RA-L): 2022 - Present (Reviewed: 4 Papers)
-  - Engineering Applications of Artificial Intelligence (EAAI): 2025 - Present (Reviewed: 3 Papers)
+  - IEEE Robotics and Automation Letters (RA-L): 2022 - Present
+  - Engineering Applications of Artificial Intelligence (EAAI): 2025 - Present
   - IEEE Transaction on Robotics: 2025 - Present
 
 - **_Conferences:_**
-  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS): 2024, 2025 (Reviewed: 2 Papers)
+  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS): 2024, 2025, 2026
   - IEEE International Conference on Intelligent Transportation Systems (ITSC): 2024, 2025
   - IEEE Symposium Series on Computational Intelligence (SSCI): 2022
   - IEEE Congress on Evolutionary Computation (ECE): 2022
   - IEEE Intelligent Vehicles Symposium (IV): 2026
+  - The Conference on Robot Learning (CoRL): 2026
